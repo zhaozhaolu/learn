@@ -4,7 +4,7 @@ def transfer1():
             "T":"温度转换",
             "L":"长度转换",
             "C":"货币转换"T
-    }
+           }
     for k, v in menu.items():
         print(k, v)
     enter = input("请根据屏幕提示输入转换单位的英文缩写")
