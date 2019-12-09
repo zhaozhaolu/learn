@@ -1,1 +1,1 @@
-readme book good python 111 learn 22222222222
+“三十不学艺，而我在路上”
